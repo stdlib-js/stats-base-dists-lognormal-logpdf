@@ -66,13 +66,13 @@ where `mu` is the location parameter and `sigma > 0` is the scale parameter. Acc
 ## Usage
 
 ```javascript
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logpdf@esm/index.mjs';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logpdf@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logpdf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logpdf@v0.2.0-esm/index.mjs';
 ```
 
 #### logpdf( x, mu, sigma )
@@ -143,7 +143,7 @@ y = mylogpdf( 2.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logpdf@esm/index.mjs';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-logpdf@v0.2.0-esm/index.mjs';
 
 var sigma;
 var mu;
