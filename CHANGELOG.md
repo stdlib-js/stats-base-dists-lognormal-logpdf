@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-09)
+## Unreleased (2026-07-01)
+
+<section class="features">
+
+### Features
+
+-   [`151e6e9`](https://github.com/stdlib-js/stdlib/commit/151e6e94f4491c50441f8ad8399ce20bd44564d4) - add C implementation for `stats/base/dists/lognormal/logpdf` [(#10881)](https://github.com/stdlib-js/stdlib/pull/10881)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`151e6e9`](https://github.com/stdlib-js/stdlib/commit/151e6e94f4491c50441f8ad8399ce20bd44564d4) - **feat:** add C implementation for `stats/base/dists/lognormal/logpdf` [(#10881)](https://github.com/stdlib-js/stdlib/pull/10881) _(by Kamal Singh Rautela, Neeraj Pathak, Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`797d3a0`](https://github.com/stdlib-js/stdlib/commit/797d3a0bbe3f062d53e7ff8b7919e54a0e6c0d00) - **bench:** refactor to use string interpolation in `stats/base/dists/lognormal` [(#10445)](https://github.com/stdlib-js/stdlib/pull/10445) _(by Vishal Gaikwad)_
 
@@ -25,9 +36,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kamal Singh Rautela
+-   Neeraj Pathak
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
