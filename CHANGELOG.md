@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-10-24)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`02a2c18`](https://github.com/stdlib-js/stdlib/commit/02a2c18140c91c23adaea88d9d2d89f6b884babd) - **test:** migrate `stats/base/dists/lognormal/logpdf` to ULP-based assertions [(#16248)](https://github.com/stdlib-js/stdlib/pull/16248) _(by Athan Reines)_
 -   [`5406750`](https://github.com/stdlib-js/stdlib/commit/54067508555f2133874dd8464c36f7e1c536eff2) - **docs:** fix return values [(#14704)](https://github.com/stdlib-js/stdlib/pull/14704) _(by Philipp Burckhardt)_
 -   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
